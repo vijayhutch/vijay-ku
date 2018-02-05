@@ -3,13 +3,13 @@
 main()
 {
 int a;
-printf("enter the number"):
+printf("enter the alphabet"):
 scanf("%d",&a);
-if(a==%2)
+if(a==1)
 {
-printf("even");
+printf("alphabets");
 else
-printf(" odd");
+printf(" not");
 getch();
 return 0;
 }
